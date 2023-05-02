@@ -5,9 +5,9 @@ function Footer() {
         <div>
             <ul className='buttons'>
             <a href="https://www.facebook.com/">facebook</a>      
-                <br></br>
+                {/* <br></br> */}
                 <a href="https://www.instagram.com/?hl=en">Instagram</a>
-                <br></br>
+                {/* <br></br> */}
                         <a href="https://twitter.com/?lang=en">twitter</a>
             </ul>
 

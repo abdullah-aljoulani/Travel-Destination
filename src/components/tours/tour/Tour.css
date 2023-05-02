@@ -1,0 +1,19 @@
+.mainDiv img{
+    width: 65%;
+    border:2px solid #ff0761;
+}
+
+.mainDiv{
+    margin-left: 25%;
+    padding: 10px;
+}
+
+.mainDiv a{
+    text-decoration: none;
+}
+
+.mainDiv p{
+    color: black;
+    margin-left: 25%;
+    font-size: 30px;
+}
