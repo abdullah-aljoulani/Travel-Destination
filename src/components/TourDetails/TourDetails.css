@@ -1,0 +1,11 @@
+.divInfo{
+    display: flex;
+    flex-direction: column;
+    margin: 0 20%;
+}
+
+
+.divInfo p {
+    padding: 10px;
+    border: 1px solid black;
+}

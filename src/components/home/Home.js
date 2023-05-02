@@ -2,14 +2,18 @@ import React from 'react'
 import Footer from '../footer/Footer'
 import Header from '../header/Header'
 import Tours from '../tours/Tours'
-function Home() {
+import './Home.css'
+
+
+function Home(props) {
     return (
         <div>
             <Header />
-            <Tours />
+            <Tours/>
             <Footer />
         </div>
     )
 }
 
 export default Home;
+// DataT={props.Data}
